@@ -9,4 +9,6 @@
 
 ***Things*** *like* **bold**
 
-We did git stuff
+We did git stuff]
+
+# Things we learned
